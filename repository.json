@@ -11,6 +11,14 @@
             "version": 103
         },
         {
+            "name": "笔趣阁ABC",
+            "url": "https://www.biqubao.com",
+            "category": 1,
+            "rank": 0,
+            "auth": false,
+            "version": 103
+        },
+        {
             "name": "纵横中文网",
             "url": "http://www.zongheng.com",
             "category": 1,

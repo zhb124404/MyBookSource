@@ -1,7 +1,14 @@
 {
     "name": "By 梦月",
-    "summary":"test book sources",
-    "list":[
-        
+    "summary": "test book sources",
+    "list": [
+        {
+            "name": "纵横中文网",
+            "url": "http://www.zongheng.com",
+            "category": 1,
+            "rank": 0,
+            "auth": false,
+            "version": 100
+        }
     ]
 }
